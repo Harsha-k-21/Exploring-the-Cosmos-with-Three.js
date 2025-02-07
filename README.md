@@ -1,4 +1,4 @@
- Twinkling Stars & Rotating Big Star - Three.js Project
+ Exploring the Cosmos - Three.js Project
 
 This project is a visually immersive 3D space scene built using Three.js. It features twinkling stars, a rotating central star-shaped figure, and interactive effects where the large star changes color upon mouse hover.
 
